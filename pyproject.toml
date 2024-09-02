@@ -1,0 +1,10 @@
+[tool.poetry]
+name = "selenium project"
+version = "1.8.3"
+description = "Python Application (with Poetry)"
+authors = []
+readme = "README.md"
+
+[tool.poetry.dependencies]
+selenium = "^4.20.0"
+python = "^3.9"
